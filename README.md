@@ -1,18 +1,19 @@
 # Personal-Homepage<br>
-Do you know? I've crosssed mountains and seas,and I've had tacos on the moon! ——Nov 10, 2019.
+Do you know? I've crosssed mountains and seas, and I've had tacos on the moon! ——Nov 10, 2019.
 <div>
 
-|<br /><i>WIT-CyberSpace</i><br />⚡抽空更新ing⚡<br /><img alt="Me" src="https://p3.itc.cn/images01/20210819/d14a838da6dc45da9d0b30fc60faee59.jpeg" width=100 /><br />  [![Github Stars](https://img.shields.io/github/stars/notnullpointer?color=faf408&label=github%20stars&logo=github)](https://github.com/notnullpointer)  [![Bilibili](https://img.shields.io/badge/dynamic/json?labelColor=FE7398&logo=bilibili&logoColor=white&label=b站-YourName&color=00aeec&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D399946320)](https://space.bilibili.com/399946320) <br>[📚知识库](https://www.yuque.com/notnullpointer)｜[⚙️项目](https://localhost)｜[🔖导航](https://www.google.com)｜[🚀CSDN](https://blog.csdn.net)| <br/>![YOUYOUYOU](https://raw.githubusercontent.com/notnullpointer/github-stats/master/generated/overview.svg#gh-dark-mode-only)  
+|<br /><i>WIT-CyberSpace</i><br />⚡抽空更新ing⚡<br /><img alt="Me" src="https://p3.itc.cn/images01/20210819/d14a838da6dc45da9d0b30fc60faee59.jpeg" width=100 /><br />  [![Github Stars](https://img.shields.io/github/stars/notnullpointer?color=faf408&label=github%20stars&logo=github)](https://github.com/notnullpointer)  [![Bilibili](https://img.shields.io/badge/dynamic/json?labelColor=FE7398&logo=bilibili&logoColor=white&label=b站-YourName&color=00aeec&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D399946320)](https://space.bilibili.com/399946320) <br>[📚知识库](https://www.yuque.com/notnullpointer)｜[⚙️项目](https://localhost)｜[🔖导航](https://www.google.com)｜[🚀CSDN](https://blog.csdn.net) |<br/> <img alt="Me" src="https://raw.githubusercontent.com/notnullpointer/github-stats/master/generated/overview.svg" />
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-![GitHub Streak](https://github-profile-trophy.vercel.app/?username=404name&row=2&column=3) | ![](https://raw.githubusercontent.com/404name/github-stats/master/generated/languages.svg)
+![GitHub Streak](https://github-profile-trophy.vercel.app/?username=notnullpointer&row=2&column=3) | ![](https://raw.githubusercontent.com/notnullpointer/github-stats/master/generated/languages.svg)
 
+<!-- 上方为核心配置，下方为一些相关说明 -->
 <!-- 统计数据生成
 ![](https://raw.githubusercontent.com/notnullpointer/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/notnullpointer/github-stats/master/generated/overview.svg#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/notnullpointer/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/notnullpointer/github-stats/master/generated/languages.svg#gh-light-mode-only)
  -->
- <!--
+ <!-- 图标链接
  [![Bilibili](https://img.shields.io/badge/dynamic/json?labelColor=FE7398&logo=bilibili&logoColor=white&label=b站-YourName&color=00aeec&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D399946320)](https://space.bilibili.com/399946320)
  https://space.bilibili.com/399946320
  29209613
